@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Pandas-Challenge
+=======
+# Pandas-Challenge-
+
+>>>>>>> 9aa67bc026b1067bab6e8cc1cb007aee050a7193
 In this assignment, we were given the task of analyzing data for a school district using the Pandas software library within Python.  Pandas is a very powerful, intuitive and popular tool.  It is a declared favorite for many data scientists.
 
 After analyzing the data, I can make two conclusions, which would have not seemed true to me at the onset of this assignment:
@@ -128,4 +133,8 @@ As final considerations:
 
 Use the pandas library and Jupyter Notebook.
 You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
+<<<<<<< HEAD
 You must include a written description of at least two observable trends based on t
+=======
+You must include a written description of at least two observable trends based on the data.
+>>>>>>> 9aa67bc026b1067bab6e8cc1cb007aee050a7193
