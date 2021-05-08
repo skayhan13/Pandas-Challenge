@@ -57,12 +57,16 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 * % Passing Reading (The percentage of students that passed reading.)
 * % Overall Passing (The percentage of students that passed math and reading.)
 
+![Top_5_schools_by_%_overall_passing](Images/Top_5_schools_by_%_overall_passing.png)
+
+
 ### Bottom Performing Schools (By % Overall Passing):
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 
 ### Math Scores by Grade
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+![math_scores_by_grade](Images/math_scores_by_grade.png)
 
 ### Reading Scores by Grade
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
@@ -74,6 +78,8 @@ Create a table that breaks down school performances based on average Spending Ra
 * % Passing Math (The percentage of students that passed math.)
 * % Passing Reading (The percentage of students that passed reading.)
 * % Overall Passing (The percentage of students that passed math and reading.)
+
+![Bins](Images/Bins.png)
 
 ### Scores by School Size
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
