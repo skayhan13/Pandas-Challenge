@@ -57,7 +57,7 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 * % Passing Reading (The percentage of students that passed reading.)
 * % Overall Passing (The percentage of students that passed math and reading.)
 
-![Top_5_schools_by_%_overall_passing](Images/Top_5_schools_by_%_overall_passing.png)
+![overall_passing](Images/overall_passing.png)
 
 
 ### Bottom Performing Schools (By % Overall Passing):
@@ -66,6 +66,7 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 
 ### Math Scores by Grade
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 ![math_scores_by_grade](Images/math_scores_by_grade.png)
 
 ### Reading Scores by Grade
